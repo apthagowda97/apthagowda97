@@ -1,5 +1,5 @@
 ### Hi there 👋
-####  🔭 I’m currently working on Computer Vision.
+####  🌱 I’m currently learning Computer Vision.
 
 <!--
 **apthagowda97/apthagowda97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
