@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I will update this soon.......
+- 📫 How to reach me: iamuraptha@gmail.com
 <!--
 **apthagowda97/apthagowda97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
